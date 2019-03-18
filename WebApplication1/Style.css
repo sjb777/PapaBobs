@@ -1,0 +1,13 @@
+﻿body {
+    font-size:larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span{
+    color:#646464;
+
+}
+
+input[type=select]{
+    color:blueviolet;
+}
